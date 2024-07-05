@@ -5,8 +5,8 @@ Fleet Studio Assessment
 Application to fetch diff details for commits in open-source Github repositories
 
 ## Prerequisites
-- Node.js (v14.x or later recommended)
-- npm (v6.x or later recommended)
+- Node.js (v20.x or later recommended)
+- npm (v10.x or later recommended)
 
 ## Installation
 
