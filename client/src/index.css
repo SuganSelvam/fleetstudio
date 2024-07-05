@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fbfdff;
+}
+
+@layer components {
+  .text-body {
+    @apply font-normal text-[14px] leading-5;
+  }
+  .text-header {
+    @apply text-[#39496A] font-semibold text-[16px] leading-6;
+  }
+  .text-color-body {
+    @apply text-[#39496A];
+  }
+  .text-color-muted {
+    @apply text-[#6D727C];
+  }
+  .text-color-link {
+    @apply text-[#1C7CD6];
+  }
+  .text-color-code-primary {
+    @apply text-[#657B83];
+  }
+  .text-color-code-secondary {
+    @apply text-[#60789A];
+  }
+  .diff-table-cell {
+    @apply text-color-code-secondary table-cell px-4 text-sm py-1
+  }
+}

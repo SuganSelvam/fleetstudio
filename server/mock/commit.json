@@ -1,0 +1,222 @@
+{
+    "sha": "e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+    "node_id": "MDY6Q29tbWl0NDY0MzM5Mzc6ZTEwNDU2Nzg3ZjJlYzZiNDMwMTgxZDZmNWU3NzBmNGRmMzZiOGZmOA==",
+    "commit": {
+        "author": {
+            "name": "shadeofblue",
+            "email": "blue@wave460.net",
+            "date": "2020-04-28T09:47:23Z"
+        },
+        "committer": {
+            "name": "GitHub",
+            "email": "noreply@github.com",
+            "date": "2020-04-28T09:47:23Z"
+        },
+        "message": "Merge pull request #5174 from golemfactory/b0.23\n\nB0.23",
+        "tree": {
+            "sha": "6e184fa8365a192a08a6307ac4b1610501029f38",
+            "url": "https://api.github.com/repos/golemfactory/clay/git/trees/6e184fa8365a192a08a6307ac4b1610501029f38"
+        },
+        "url": "https://api.github.com/repos/golemfactory/clay/git/commits/e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+        "comment_count": 0,
+        "verification": {
+            "verified": true,
+            "reason": "valid",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJep/urCRBK7hj4Ov3rIwAAdHIIAAMcUjdByPF2x8z5vuz6rMRo\nbxNNhdiPNakg3NO8kmYVzZf40vqC6tOchWjrJh7yOYGlLBAILLPgwgKj4BZbMyD5\n67AsxOTPHc0XuxtOKiVcMm+B0xU5pen8BPbvKqVH1dyQQtbltrlpfU2O9prkCAjm\nxZpK/ki8qnZSEcHLNfMCAX24dkOEC92eiZnfL/eCOXfiC8AwvsJoYS6KlOxlIzFl\nl1YeVFtUSY9j4Lz1KFKMU/rZ3+UqfwjXSg7Wpi+MAbiAGplLipxfH6oWPwtUrDf2\nZMIR0EpW95RFDlS0nnyQWRagQqcu2Fk4Hnori0+OBM3om9D+ZXXmF2iLkZWo9Y4=\n=+dGB\n-----END PGP SIGNATURE-----\n",
+            "payload": "tree 6e184fa8365a192a08a6307ac4b1610501029f38\nparent e23a2e07c5a921608e80bd733b4b5a741ec65fd5\nparent 043d2bd6cb06977c9a7f947c2b1ce6eaaf218c58\nauthor shadeofblue <blue@wave460.net> 1588067243 +0200\ncommitter GitHub <noreply@github.com> 1588067243 +0200\n\nMerge pull request #5174 from golemfactory/b0.23\n\nB0.23"
+        }
+    },
+    "url": "https://api.github.com/repos/golemfactory/clay/commits/e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+    "html_url": "https://github.com/golemfactory/clay/commit/e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+    "comments_url": "https://api.github.com/repos/golemfactory/clay/commits/e10456787f2ec6b430181d6f5e770f4df36b8ff8/comments",
+    "author": {
+        "login": "shadeofblue",
+        "id": 7963044,
+        "node_id": "MDQ6VXNlcjc5NjMwNDQ=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7963044?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/shadeofblue",
+        "html_url": "https://github.com/shadeofblue",
+        "followers_url": "https://api.github.com/users/shadeofblue/followers",
+        "following_url": "https://api.github.com/users/shadeofblue/following{/other_user}",
+        "gists_url": "https://api.github.com/users/shadeofblue/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/shadeofblue/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/shadeofblue/subscriptions",
+        "organizations_url": "https://api.github.com/users/shadeofblue/orgs",
+        "repos_url": "https://api.github.com/users/shadeofblue/repos",
+        "events_url": "https://api.github.com/users/shadeofblue/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/shadeofblue/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+    },
+    "parents": [
+        {
+            "sha": "e23a2e07c5a921608e80bd733b4b5a741ec65fd5",
+            "url": "https://api.github.com/repos/golemfactory/clay/commits/e23a2e07c5a921608e80bd733b4b5a741ec65fd5",
+            "html_url": "https://github.com/golemfactory/clay/commit/e23a2e07c5a921608e80bd733b4b5a741ec65fd5"
+        },
+        {
+            "sha": "043d2bd6cb06977c9a7f947c2b1ce6eaaf218c58",
+            "url": "https://api.github.com/repos/golemfactory/clay/commits/043d2bd6cb06977c9a7f947c2b1ce6eaaf218c58",
+            "html_url": "https://github.com/golemfactory/clay/commit/043d2bd6cb06977c9a7f947c2b1ce6eaaf218c58"
+        }
+    ],
+    "stats": {
+        "total": 314,
+        "additions": 276,
+        "deletions": 38
+    },
+    "files": [
+        {
+            "sha": "2e6691b29be0bdc3f0c6909f19a19a7cdd5ffecd",
+            "filename": "golem/envs/__init__.py",
+            "status": "modified",
+            "additions": 49,
+            "deletions": 2,
+            "changes": 51,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/golem%2Fenvs%2F__init__.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/golem%2Fenvs%2F__init__.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/golem%2Fenvs%2F__init__.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -3,10 +3,10 @@\n from copy import deepcopy\n from enum import Enum\n from logging import Logger, getLogger\n-from threading import RLock\n+from threading import Lock, RLock\n \n from typing import Any, Callable, Dict, List, Optional, NamedTuple, Union, \\\n-    Sequence, Iterable, ContextManager, Set, Tuple, TYPE_CHECKING\n+    Sequence, Iterable, ContextManager, Set, Tuple, Type, TYPE_CHECKING\n \n from dataclasses import dataclass, field\n from twisted.internet.threads import deferToThread\n@@ -599,3 +599,50 @@ def listen(\n             listener: EnvEventListener\n     ) -> None:\n         self._event_listeners.setdefault(event_type, set()).add(listener)\n+\n+\n+def delayed_config(cls: Type[Environment]) -> Type[Environment]:\n+    \"\"\"\n+    This class decorator allows to save config update and apply it, when env is\n+    disabled.\n+\n+    Mutex prevents the following scenario\n+    Thread 1                Thread 2\n+    call apply_next_config\n+                            call update_config\n+                            status is disabled, so calls\n+                                super().update_config\n+    cls.update_config\n+        with _next_config\n+    \"\"\"\n+    # FIXME workaround https://github.com/python/mypy/issues/5865\n+    cls2: Any = cls\n+\n+    class DelayedConfigWrapper(cls2):\n+        def __init__(self, *args, **kwargs) -> None:\n+            super().__init__(*args, **kwargs)\n+            self._next_config: Optional[EnvConfig] = None\n+            self._config_lock = Lock()\n+\n+            def apply_next_config(_):\n+                with self._config_lock:\n+                    if self._next_config is None:\n+                        return\n+                    self._logger.debug(\"Applying saved config\")\n+                    config = self._next_config\n+                    self._next_config = None\n+                    cls.update_config(self, config)\n+\n+            self.listen(EnvEventType.DISABLED, apply_next_config)\n+\n+        def update_config(self, new_config: EnvConfig) -> None:\n+            with self._config_lock:\n+                if self._status == EnvStatus.DISABLED:\n+                    self._logger.debug(\"Config applied immediately\")\n+                    super().update_config(new_config)\n+                    return\n+\n+                self._logger.debug(\"Config saved for later\")\n+                self._next_config = new_config\n+\n+    return DelayedConfigWrapper"
+        },
+        {
+            "sha": "0a9ade1ce89e54a5b2f33f92b0e174b0d8b595f1",
+            "filename": "golem/envs/docker/cpu.py",
+            "status": "modified",
+            "additions": 3,
+            "deletions": 1,
+            "changes": 4,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/golem%2Fenvs%2Fdocker%2Fcpu.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/golem%2Fenvs%2Fdocker%2Fcpu.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/golem%2Fenvs%2Fdocker%2Fcpu.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -41,7 +41,8 @@\n     RuntimePayload,\n     RuntimeStatus,\n     UsageCounter,\n-    UsageCounterValues\n+    UsageCounterValues,\n+    delayed_config,\n )\n from golem.envs.docker import DockerRuntimePayload, DockerPrerequisites\n from golem.envs.docker.whitelist import Whitelist\n@@ -496,6 +497,7 @@ def usage_counter_values(self) -> UsageCounterValues:\n         return deepcopy(self._counters)\n \n \n+@delayed_config\n class DockerCPUEnvironment(EnvironmentBase):\n \n     MIN_MEMORY_MB: ClassVar[int] = 1024"
+        },
+        {
+            "sha": "4fb41b7c84614790430c50a702e1d06ec375d70e",
+            "filename": "golem/task/taskcomputer.py",
+            "status": "modified",
+            "additions": 5,
+            "deletions": 13,
+            "changes": 18,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/golem%2Ftask%2Ftaskcomputer.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/golem%2Ftask%2Ftaskcomputer.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/golem%2Ftask%2Ftaskcomputer.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -77,7 +77,7 @@ def __init__(\n         )\r\n         self._new_computer = NewTaskComputer(\r\n             env_manager=env_manager,\r\n-            work_dir=task_server.get_task_computer_root(),\r\n+            work_dir=Path(task_server.get_task_computer_root()),\r\n             stats_keeper=self.stats\r\n         )\r\n \r\n@@ -263,10 +263,8 @@ def change_config(\n             config_desc: 'ClientConfigDescriptor',\r\n             in_background: bool = True\r\n     ) -> defer.Deferred:\r\n-        work_dir = Path(self._task_server.get_task_computer_root())\r\n-        yield self._new_computer.change_config(\r\n-            config_desc=config_desc,\r\n-            work_dir=work_dir)\r\n+        self._new_computer.change_config(\r\n+            config_desc=config_desc)\r\n         return (yield self._old_computer.change_config(\r\n             config_desc=config_desc,\r\n             in_background=in_background))\r\n@@ -480,13 +478,9 @@ def get_current_computing_env(self) -> 'Optional[EnvId]':\n     def change_config(\r\n             self,\r\n             config_desc: 'ClientConfigDescriptor',\r\n-            work_dir: Path\r\n-    ) -> defer.Deferred:\r\n-        assert not self._is_computing()\r\n-        self._work_dir = work_dir\r\n-\r\n+    ) -> None:\r\n         config_dict = dict(\r\n-            work_dirs=[work_dir],\r\n+            work_dirs=[self._work_dir],\r\n             cpu_count=config_desc.num_cores,\r\n             memory_mb=scale_memory(\r\n                 config_desc.max_memory_size,\r\n@@ -505,8 +499,6 @@ def change_config(\n             # TODO: GPU options in config_dict\r\n             docker_gpu.update_config(DockerGPUConfig(**config_dict))\r\n \r\n-        return defer.succeed(None)\r\n-\r\n     def quit(self):\r\n         if self.has_assigned_task():\r\n             self.task_interrupted()\r"
+        },
+        {
+            "sha": "468db0a3d15de7cfccb74790543458588eeef572",
+            "filename": "scripts/node_integration_tests/nodes/provider/configure_or_die.py",
+            "status": "added",
+            "additions": 43,
+            "deletions": 0,
+            "changes": 43,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fnodes%2Fprovider%2Fconfigure_or_die.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fnodes%2Fprovider%2Fconfigure_or_die.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/scripts%2Fnode_integration_tests%2Fnodes%2Fprovider%2Fconfigure_or_die.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -0,0 +1,43 @@\n+#!/usr/bin/env python\n+\n+import logging\n+from unittest.mock import patch\n+\n+from twisted.internet.defer import inlineCallbacks\n+\n+from golemapp import main\n+\n+from golem.client import Client\n+from golem.task.taskserver import TaskServer\n+\n+\n+def on_exception():\n+    logging.critical(\"#### Integration test failed ####\")\n+\n+\n+client_change_config_orig = Client.change_config\n+\n+\n+def client_change_config(self: Client, *args, **kwargs):\n+    try:\n+        client_change_config_orig(self, *args, **kwargs)\n+    except:  # noqa pylint: disable=broad-except\n+        on_exception()\n+\n+\n+task_server_change_config_orig = TaskServer.change_config\n+\n+\n+@inlineCallbacks\n+def task_server_change_config(self: TaskServer, *args, **kwargs):\n+    try:\n+        yield task_server_change_config_orig(self, *args, **kwargs)\n+    except:  # noqa pylint: disable=broad-except\n+        on_exception()\n+\n+\n+with patch(\"golem.client.Client.change_config\",\n+           client_change_config), \\\n+     patch(\"golem.task.taskserver.TaskServer.change_config\",\n+           task_server_change_config):\n+    main()"
+        },
+        {
+            "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+            "filename": "scripts/node_integration_tests/playbooks/golem/reconfigure_provider_while_working/__init__.py",
+            "status": "added",
+            "additions": 0,
+            "deletions": 0,
+            "changes": 0,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2F__init__.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2F__init__.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2F__init__.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8"
+        },
+        {
+            "sha": "d37df4e43f33291a4ee9bdbb39469101ddc6b969",
+            "filename": "scripts/node_integration_tests/playbooks/golem/reconfigure_provider_while_working/playbook.py",
+            "status": "added",
+            "additions": 73,
+            "deletions": 0,
+            "changes": 73,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2Fplaybook.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2Fplaybook.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2Fplaybook.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -0,0 +1,73 @@\n+import time\n+from functools import partial\n+\n+from scripts.node_integration_tests import helpers\n+from ...test_config_base import NodeId\n+from ..task_api.playbook import Playbook as BasePlaybook\n+\n+\n+class Playbook(BasePlaybook):\n+    def wait_for_computing_task(self):\n+        def on_success(result):\n+            state = result['provider_state']\n+            print(f\"provider state: {state}\")\n+            if state['status'] == 'Computing':\n+                self.next()\n+            else:\n+                time.sleep(10)\n+\n+        def on_error(_):\n+            print(f\"failed getting provider stats\")\n+            self.fail()\n+        return self.call(NodeId.provider, 'comp.tasks.stats',\n+                         on_success=on_success, on_error=on_error)\n+\n+    def ui_stop(self, node_id: NodeId):\n+        def on_success(_):\n+            print(f\"stopped {node_id.value}\")\n+            self.next()\n+\n+        def on_error(_):\n+            print(f\"stopping {node_id.value} failed\")\n+            self.fail()\n+        return self.call(node_id, 'ui.stop', on_success=on_success,\n+                         on_error=on_error)\n+\n+    def change_config(self, node_id: NodeId):\n+        opts = {\n+            \"node_name\": \"a new name\",\n+        }\n+\n+        def on_success(_):\n+            print(f\"reconfigured {node_id.value}\")\n+            time.sleep(10)  # give time for async operations to process\n+            self.next()\n+\n+        def on_error(_):\n+            print(f\"reconfiguring {node_id.value} failed\")\n+            self.fail()\n+\n+        return self.call(node_id, 'env.opts.update', opts,\n+                         on_success=on_success, on_error=on_error)\n+\n+    def check_if_test_failed(self, node_id: NodeId):\n+        test_failed = bool(helpers.search_output(\n+            self.output_queues[node_id],\n+            \".*#### Integration test failed ####.*\"))\n+\n+        if test_failed:\n+            self.fail(\"found failure marker in log\")\n+\n+        print(\"no failure marker found in log\")\n+        self.next()\n+\n+    steps = BasePlaybook.initial_steps + (\n+        BasePlaybook.step_enable_app,\n+        BasePlaybook.step_create_task,\n+        BasePlaybook.step_get_task_id,\n+        BasePlaybook.step_get_task_status,\n+        wait_for_computing_task,\n+        partial(ui_stop, node_id=NodeId.provider),\n+        partial(change_config, node_id=NodeId.provider),\n+        partial(check_if_test_failed, node_id=NodeId.provider),\n+    )"
+        },
+        {
+            "sha": "ff69680000e3f2a3faeb52c55bebd13828b697f3",
+            "filename": "scripts/node_integration_tests/playbooks/golem/reconfigure_provider_while_working/test_config.py",
+            "status": "added",
+            "additions": 9,
+            "deletions": 0,
+            "changes": 9,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2Ftest_config.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2Ftest_config.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/scripts%2Fnode_integration_tests%2Fplaybooks%2Fgolem%2Freconfigure_provider_while_working%2Ftest_config.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -0,0 +1,9 @@\n+from ...test_config_base import NodeId\n+\n+from ..task_api.test_config import TestConfig as TestConfigBase\n+\n+\n+class TestConfig(TestConfigBase):\n+    def __init__(self):\n+        super().__init__()\n+        self.nodes[NodeId.provider].script = 'provider/configure_or_die'"
+        },
+        {
+            "sha": "b5c049d683662049e299b499375a4c4dd6beadb4",
+            "filename": "tests/golem/envs/docker/cpu/test_env.py",
+            "status": "modified",
+            "additions": 0,
+            "deletions": 5,
+            "changes": 5,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Fenvs%2Fdocker%2Fcpu%2Ftest_env.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Fenvs%2Fdocker%2Fcpu%2Ftest_env.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/tests%2Fgolem%2Fenvs%2Fdocker%2Fcpu%2Ftest_env.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -329,11 +329,6 @@ def test_wrong_type(self):\n         with self.assertRaises(AssertionError):\n             self.env.update_config(object())\n \n-    def test_enabled_status(self):\n-        self.env._status = EnvStatus.ENABLED\n-        with self.assertRaises(ValueError):\n-            self.env.update_config(Mock(spec=DockerCPUConfig))\n-\n     @patch_env('_validate_config', side_effect=ValueError)\n     def test_invalid_config(self, validate):\n         config = Mock(spec=DockerCPUConfig)"
+        },
+        {
+            "sha": "dbda654891bc4d1823205b870705243b56fa6360",
+            "filename": "tests/golem/envs/test_env.py",
+            "status": "modified",
+            "additions": 90,
+            "deletions": 1,
+            "changes": 91,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Fenvs%2Ftest_env.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Fenvs%2Ftest_env.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/tests%2Fgolem%2Fenvs%2Ftest_env.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -2,13 +2,18 @@\n from unittest import TestCase\n from unittest.mock import Mock, patch\n \n+from dataclasses import dataclass\n+\n+from twisted.internet import defer\n+\n from golem.envs import (\n     EnvConfig,\n     EnvEvent,\n     EnvEventType,\n     EnvironmentBase,\n     EnvStatus,\n-    Prerequisites\n+    Prerequisites,\n+    delayed_config,\n )\n \n \n@@ -121,3 +126,87 @@ def test_re_register(self):\n         self.assertEqual(self.env._event_listeners, {\n             EnvEventType.ERROR_OCCURRED: {listener}\n         })\n+\n+\n+@dataclass\n+class MyConfig(EnvConfig):\n+    i: int\n+\n+    def to_dict(self) -> dict:\n+        pass\n+\n+    @staticmethod\n+    def from_dict(data):\n+        pass\n+\n+\n+@delayed_config\n+class MyEnv(EnvironmentBase):\n+    def __init__(self, config: MyConfig) -> None:\n+        super().__init__()\n+        self._config = config\n+\n+    def update_config(self, config: EnvConfig) -> None:\n+        assert isinstance(config, MyConfig)\n+        self._logger.debug(\"dupa %r\", self._event_listeners)\n+        if self._status != EnvStatus.DISABLED:\n+            raise ValueError\n+        self._config = config\n+        self._config_updated(config)\n+\n+    def config(self) -> MyConfig:\n+        return self._config\n+\n+    @classmethod\n+    def supported(cls):\n+        raise NotImplementedError\n+\n+    def prepare(self):\n+        raise NotImplementedError\n+\n+    def clean_up(self):\n+        raise NotImplementedError\n+\n+    def run_benchmark(self):\n+        raise NotImplementedError\n+\n+    def parse_prerequisites(self, prerequisites_dict):\n+        raise NotImplementedError\n+\n+    def install_prerequisites(self, prerequisites):\n+        raise NotImplementedError\n+\n+    def parse_config(self, config_dict):\n+        raise NotImplementedError\n+\n+    def supported_usage_counters(self):\n+        raise NotImplementedError\n+\n+    def runtime(self, payload, config=None):\n+        raise NotImplementedError\n+\n+\n+def execute(f, *args, **kwargs):\n+    try:\n+        return defer.succeed(f(*args, **kwargs))\n+    except Exception as exc:  # pylint: disable=broad-except\n+        return defer.fail(exc)\n+\n+\n+@patch('golem.envs.deferToThread', execute)\n+class TestDelayedConfig(TestCase):\n+\n+    def setUp(self) -> None:\n+        config = MyConfig(i=1)\n+        self.env = MyEnv(config)\n+\n+    def test_update_config_when_disabled(self):\n+        self.env.update_config(MyConfig(i=2))\n+        self.assertEqual(self.env.config().i, 2)\n+\n+    def test_update_config_when_enabled(self):\n+        self.env._env_enabled()\n+        self.env.update_config(MyConfig(i=2))\n+        self.assertEqual(self.env.config().i, 1)\n+        self.env._env_disabled()\n+        self.assertEqual(self.env.config().i, 2)"
+        },
+        {
+            "sha": "991420fdb015503dc0f60c5fee7bfbd1f0495294",
+            "filename": "tests/golem/task/test_newtaskcomputer.py",
+            "status": "modified",
+            "additions": 2,
+            "deletions": 13,
+            "changes": 15,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Ftask%2Ftest_newtaskcomputer.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Ftask%2Ftest_newtaskcomputer.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/tests%2Fgolem%2Ftask%2Ftest_newtaskcomputer.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -320,28 +320,17 @@ def test_client_client_and_compute(self):\n \n class TestChangeConfig(NewTaskComputerTestBase):\n \n-    @defer.inlineCallbacks\n-    def test_computation_running(self):\n-        self.task_computer._computation = mock.Mock()\n-        work_dir = Path('test_dir')\n-        config_desc = ClientConfigDescriptor()\n-        with self.assertRaises(AssertionError):\n-            yield self.task_computer.change_config(config_desc, work_dir)\n-\n-    @defer.inlineCallbacks\n     def test_ok(self):\n-        work_dir = Path('test_dir')\n         config_desc = ClientConfigDescriptor()\n         config_desc.num_cores = 13\n         config_desc.max_memory_size = 1024 * 1024\n \n-        yield self.task_computer.change_config(config_desc, work_dir)\n+        self.task_computer.change_config(config_desc)\n \n-        self.assertEqual(self.task_computer._work_dir, work_dir)\n         self.env_manager.environment.assert_called_once_with(DOCKER_CPU_ENV_ID)\n         self.env_manager.environment().update_config.assert_called_once_with(\n             DockerCPUConfig(\n-                work_dirs=[Path('test_dir')],\n+                work_dirs=[self.work_dir],\n                 cpu_count=13,\n                 memory_mb=1024,\n             )"
+        },
+        {
+            "sha": "c735de6028882ef430c2648fb6ee5194ce04ce38",
+            "filename": "tests/golem/task/test_taskcomputeradapter.py",
+            "status": "modified",
+            "additions": 2,
+            "deletions": 3,
+            "changes": 5,
+            "blob_url": "https://github.com/golemfactory/clay/blob/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Ftask%2Ftest_taskcomputeradapter.py",
+            "raw_url": "https://github.com/golemfactory/clay/raw/e10456787f2ec6b430181d6f5e770f4df36b8ff8/tests%2Fgolem%2Ftask%2Ftest_taskcomputeradapter.py",
+            "contents_url": "https://api.github.com/repos/golemfactory/clay/contents/tests%2Fgolem%2Ftask%2Ftest_taskcomputeradapter.py?ref=e10456787f2ec6b430181d6f5e770f4df36b8ff8",
+            "patch": "@@ -34,7 +34,8 @@ def setUp(self, new_task_computer, old_task_computer, int_stats_keeper):  # noqa\n         self.task_server = mock.Mock(\n             spec=TaskServer,\n             config_desc=config_desc,\n-            task_keeper=self.task_keeper\n+            task_keeper=self.task_keeper,\n+            get_task_computer_root=mock.Mock(return_value=Path(\"/tmp\")),\n         )\n         self.env_manager = mock.Mock(spec_set=EnvironmentManager)\n         self.finished_callback = mock.Mock()\n@@ -336,11 +337,9 @@ def test_compute_tasks_setting(self):\n     @defer.inlineCallbacks\n     def test_both_computers_reconfigured(self):\n         config_desc = ClientConfigDescriptor()\n-        self.task_server.get_task_computer_root.return_value = '/test'\n         yield self.adapter.change_config(config_desc)\n         self.new_computer.change_config.assert_called_once_with(\n             config_desc=config_desc,\n-            work_dir=Path('/test')\n         )\n         self.old_computer.change_config.assert_called_once_with(\n             config_desc=config_desc,"
+        }
+    ]
+}
